@@ -36,5 +36,15 @@ namespace Fitamza
         {
 
         }
+
+        private void btnUsun_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnEdytuj_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
